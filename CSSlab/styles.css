@@ -1,0 +1,50 @@
+ body {font-family: Trebuchet MS, Helvetica, sans-serif;}
+ body {background-color: #95a895; } 
+ /* #a0a0a0 is light gray, #000000 is black, #ffffff is white, #ff0000 is red, #00ff00 is green, #0000ff is blue 
+ #ff00ff is pinkish, #00ffff is teal, #ffff00 is yellow*/
+ h2,p, .readme-wrapper {text-align: center;}
+ /* <a> must comtain href element and the selcetor must be the that of the container for <a> */
+a {
+    text-decoration-line: none; 
+    color: #000000;
+    }
+.boxes {
+    display: block;
+    margin: 2em;
+    border: 3px solid #000000;
+    border-radius: .5pc;
+    width: 20%;
+    }
+a:hover {
+    font-weight: bold;
+    color: #0000ff;
+    cursor: pointer;
+    }
+/*#box2 {position: realative; bottom: 50rem; left: 30rem;}*/
+/*#box2 {position: absolute; top: 0; right: 0;*/
+#box1 {background-color: #546545}
+#box2 {background-color: #274092}
+#box3 {background-color: #456456}
+#box4 {background-color: #456124}
+.image {height: 5rem;
+    width: 5rem;
+    background-color: #105050;
+    display: inline;
+    position: relative;
+    top: 0;
+    float: left;
+    }
+h1 {color: #95ffff;}
+.h1a {color: #455441;}
+/*the color changes to the class*/
+.h1b {color: #400405;}
+/*class overrides basic selector*/
+#show1 {color: #556675;}
+#show2 {color: #112502;}
+#show3 {font-style: italic; color: #546821;}
+#show4 {font-style: oblique; color: #156542; }
+#show5 {color: #2c5855;}
+ul {font-style: italic;}
+.friends {font-style: oblique; color: #545650;}
+.places {font-style: normal;}
+.food {color: #400405}
