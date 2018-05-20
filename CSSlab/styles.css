@@ -48,3 +48,19 @@ ul {font-style: italic;}
 .friends {font-style: oblique; color: #545650;}
 .places {font-style: normal;}
 .food {color: #400405}
+#fr1 {font-style: italic; color: #548000;}
+#fr2 {color: #000509;}
+#fr3 {color: #505000;}
+#fr4 {font-style: normal; color: #500020;}
+#fr5 {color: #546588}
+#p1 {font-style: oblique; color: #165488;}
+#p2 {color: #800800;}
+#p3 {color: #f50080;}
+#p4 {color: #564500;}
+#p5 {font-family: Arial, Helvetica, sans-serif; font-style: italic; color: #564598;}
+#fd1 {font-style: oblique; color: #8008d5;}
+#fd2 {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: #c48000}
+#fd3 {font-style: normal; color: #156489;}
+#fd4 {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: #0508c0;}
+#fd5 {font-style: normal; color: #005080;}
+.lists {border: 2px solid black;}
