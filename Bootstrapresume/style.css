@@ -1,4 +1,19 @@
 #jumbotop {background-color: #0066ff;}
-.display-5, .display-8 {color: white;}
-
+.top {color: white;}
+#alert { background-color: #a9e9a9fb;}
+.alerttext {color: #1e581e; font-weight: 500;}
 h6 {text-align: center;}
+ul {padding: 0;}
+.image-placeholder {
+    background-color: #eee;
+    display: flex;
+    height: 150px;
+    margin: 5px;
+    width: 350px;
+}
+
+.image-placeholder > h4 {
+    align-self: center;
+    text-align: center;
+    width: 100%;
+}
